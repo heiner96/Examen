@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heiner", "Heiner\Heiner.csproj", "{C9391187-4D72-44C7-9F31-D94ABBF5591C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heiner2", "Heiner2\Heiner2.csproj", "{46D2DBC5-D1CE-421B-9E2B-F2FD247E247C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9391187-4D72-44C7-9F31-D94ABBF5591C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9391187-4D72-44C7-9F31-D94ABBF5591C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9391187-4D72-44C7-9F31-D94ABBF5591C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9391187-4D72-44C7-9F31-D94ABBF5591C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D2DBC5-D1CE-421B-9E2B-F2FD247E247C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D2DBC5-D1CE-421B-9E2B-F2FD247E247C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D2DBC5-D1CE-421B-9E2B-F2FD247E247C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D2DBC5-D1CE-421B-9E2B-F2FD247E247C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
